@@ -1,0 +1,24 @@
+
+#subdiv{
+    height: 100vh;
+}
+
+#subdiv1{
+    border: 2px solid black;
+    height: 400px;
+}
+
+#subdiv2{
+    border: 2px solid black;
+    height: 400px;
+}
+
+.subrow{
+    height: 50%;
+}
+
+#btndiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
